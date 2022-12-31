@@ -11,8 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q
+|2,0,1672493608,,"q"
 :wq
-|2,0,1672486268,,"wq"
+|2,0,1672493446,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,18 +27,47 @@
 # Registers:
 
 # File marks:
-'0  1  45  ~/readme.md
-|4,48,1,45,1672486268,"~/readme.md"
+'0  362  0  ~/.vimrc
+|4,48,362,0,1672493614,"~/.vimrc"
+'1  1  0  ~/readme.md
+|4,49,1,0,1672493446,"~/readme.md"
+'2  1  2  ~/readme.md
+|4,50,1,2,1672493412,"~/readme.md"
+'3  1  45  ~/readme.md
+|4,51,1,45,1672486268,"~/readme.md"
+'4  1  45  ~/readme.md
+|4,52,1,45,1672486268,"~/readme.md"
 
 # Jumplist (newest first):
+-'  362  0  ~/.vimrc
+|4,39,362,0,1672493614,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1672493511,"~/.vimrc"
+-'  1  0  ~/readme.md
+|4,39,1,0,1672493446,"~/readme.md"
+-'  1  0  ~/readme.md
+|4,39,1,0,1672493446,"~/readme.md"
+-'  1  2  ~/readme.md
+|4,39,1,2,1672493412,"~/readme.md"
+-'  1  2  ~/readme.md
+|4,39,1,2,1672493412,"~/readme.md"
+-'  1  45  ~/readme.md
+|4,39,1,45,1672486268,"~/readme.md"
 -'  1  45  ~/readme.md
 |4,39,1,45,1672486268,"~/readme.md"
 
 # History of marks within files (newest to oldest):
 
+> ~/.vimrc
+	*	1672493605	0
+	"	362	0
+	^	362	0
+	.	362	0
+	+	362	0
+
 > ~/readme.md
-	*	1672486266	0
-	"	1	45
-	^	1	45
-	.	1	42
-	+	1	42
+	*	1672493444	0
+	"	1	0
+	^	1	3
+	.	1	2
+	+	1	2
